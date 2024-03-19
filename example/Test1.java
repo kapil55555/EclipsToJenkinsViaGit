@@ -11,5 +11,6 @@ public class Test1 {
 		}
 		System.out.println("program running acche se good");
 		System.out.println("good morning");
+		System.out.println("good night");
 	}
 	}
